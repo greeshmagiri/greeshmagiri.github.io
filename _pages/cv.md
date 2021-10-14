@@ -11,70 +11,24 @@ redirect_from:
 
 Education
 ======
-* **Ph.D in Blockchain Technology, Amrita Vishwa Vidyapeetham (2021 - 2025)**
-* M.Tech in Cyber Security, Amrita Vishwa Vidyapeetham (2017 - 2019)
-* B.Tech in Information Technology, Kumaraguru College of Technology (2007 - 2011)
-
-Teaching Work experience
-======
-* Sep, 2015 - Present: Assistant Professor
-  * Amrita Vishwa Vidyapeetham, Coimbatore
-  * Supervisor: Prof. M.Sethumadhavan
+* **Ph.D in Maths, Amrita Vishwa Vidyapeetham (2018 - Present)**
+* M.Sc in Maths, Cochin University of Science and Technology (2015 - 2017)
+* B.Sc in Maths, Government Victoria College (2012 - 2015)
 
 Research Work experience
 ======
-* Oct, 2018 - Present : Founder & Lead Researcher
-  * NamChain Open Initiative Research Lab, Coimbatore
-  * Duties included: R&D on Cyber Security, Cyber Awareness, Blockchain & Cryptocurrency
-
-* Jan, 2020 - Sep, 2021: Research Associate
+* Dec, 2017 - Jul, 2018: Research Associate
   * Amrita Vishwa Vidyapeetham, Coimbatore
-  * Duties included: R&D on Blockchain Technology & Cryptocurrency
+  * Duties included: R&D on HOBC on Quantum Cryptography
   * Supervisor: Prof. M.Sethumadhavan
-
-Industry Work experience
-======
-* Jul, 2019 - Dec, 2020: Lead Blockchain Engineer
-  * Ensurity Technologies, Hyderabad
-  * Duties included: R&D on Blockchain Technology & Cryptocurrency
-  * Supervisor: Mr. Chakradhar Kommera Reddy
-
-* May, 2016 - Aug, 2016: Senior Software Engineer
-  * Global Edge Solutions Ltd (deputed at Harman International), Bengaluru
-  * Duties included: System Testing of Automotive Infotainment Units
-  * Supervisor: Ms. Greeshma Kumari
-
-* Jul, 2011 - Dec, 2015: Senior Software Engineer (Joined as Associate Software Engineer)
-  * Robert Bosch Engineering and Business Solutions Private Ltd, Coimbatore
-  * Duties included: System Testing of Automotive Infotainment Units
-  * Supervisor(s): Mr. Viswanth R, Mr. Kilikannan S, Mr. Senthil G, Ms. Anjana R, Ms. Kavitha R
   
 Skills
 ======
-* Programming
-  * C
-  * C++
-  * Java
-  * Python
-  * TML
-  * Solidity
-  * PHP
-  * Javascript
-* Software Engineering
-  * Software Design
-  * Reviews
-  * System Testing
-  * Test Automation
-* Cyber Security
-  * Cyber Crime Investigation
-  * Cyber Forensics
-  * OSINT
-  * VAPT
- * Blockchain Technology
-    * Cryptocurrency 
-    * Ethereum 
-    * Corda
-    * Hyperledger
+
+* Linear Algebra
+* Wavelets
+* Singing
+* Drawing
  
 Publications
 ======
